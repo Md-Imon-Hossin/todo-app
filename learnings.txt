@@ -1,0 +1,9 @@
+
+step1: create the html basic structure (done)
+step2: style  html elements (done) 
+step3: find all the html elements and add listeners (done)
+step4: add todo (done) 
+step5: show message (done)
+step6: adding todo's local storage (done)
+step7: delete todo (done)
+step8: read todo / load todo
